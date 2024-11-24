@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/HP/projects/helloworld/projects/helloworld"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "c++ programs",
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
